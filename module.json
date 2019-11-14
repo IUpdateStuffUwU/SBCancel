@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": true,
+    "name": "sbcancel",
+    "author": "Haato / TerableCoder",
+    "description": "Cancels shield barrage with block, making the first hit cast faster",
+    "version": "1.0",
+    "options": {
+        "niceName": "SBCancel"
+    },
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/SBCancel/master/"],
+    "supportUrl": "https://github.com/TerableCoder/SBCancel/issues/"
+}
